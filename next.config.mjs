@@ -7,5 +7,6 @@ export default withNextra({
   images: {
     unoptimized: true
   },
+  basePath: '/Manuais/2024-2-ConselhoDeliberativo',
   trailingSlash: true
 })
